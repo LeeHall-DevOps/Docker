@@ -1,0 +1,35 @@
+html {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    
+}
+
+h1 {
+    font-size: 2rem;
+    
+    text-align: center;
+}
+
+h2 {
+
+    text-align: center;
+}
+
+p {
+    margin-left:2%;
+    margin-right:2%; 
+    border-style: double;
+    border-color: white;
+    padding: 5px;
+}
+
+img {
+    width: 550px;
+    height: 550px;
+    margin-left: 17%; 
+    padding: 5px;
+}
+
