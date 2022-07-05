@@ -87,3 +87,8 @@ docker run -d -p 2368:2368 ghost
 
 - github example
 docker run -d -p 4000:4000 docs/docker.github.io
+
+- copy to container
+docker cp local\path container_id:/home
+
+docker cp C:\Users\leemh\Desktop\new_Eng_repo\eng114_devops\Docker\webpage\Images\aws_logo.jpg e90692bc843b:/home
